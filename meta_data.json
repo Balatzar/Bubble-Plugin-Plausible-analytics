@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "analytics",
+        "1": "technical",
+        "2": "compliance"
+    },
+    "description": "This simple plugin just adds the Plausible JS script loading to the header. You only need to provide your site url.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1609144066842x418478626821351600/plausible_logo_sm.png",
+    "license": "open_source",
+    "link": "https://plausible.io",
+    "name": "Plausible analytics"
+}
