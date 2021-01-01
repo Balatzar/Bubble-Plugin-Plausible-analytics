@@ -1,0 +1,14 @@
+{
+    "category": "plugins",
+    "display": "Trigger goal",
+    "fields": {
+        "AAQ": {
+            "caption": "Goal name",
+            "doc": "The name of your goal. Will be the argument to `plausible('Your goal')`",
+            "editor": "StaticText",
+            "name": "goal_name",
+            "rank": 0
+        }
+    },
+    "type": "client_side"
+}
